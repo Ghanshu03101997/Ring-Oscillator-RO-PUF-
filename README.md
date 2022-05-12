@@ -1,4 +1,4 @@
-# Physical-Unclonable-Function-PUF-
+# Ring Oscillator PUF-
 ## Introduction
 The purpose of this project is to implement a Physical Unclonable Function (PUF) device in an FPGA and test its performance. The implementation of the PUF logic is done using combinatorial logic. My goal here is to design a simple and efficient ring oscillator puf(RO-PUF). For this we have used ring oscillator,2X1 multiplexer,counter and comparator.We have written an efficient verilog code and burned it on FPGA.From there we have traced the parameters like area,timing,etc.We have attached the simulated graph of behavioural model.
 ## Cryptography
