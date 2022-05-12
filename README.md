@@ -13,6 +13,5 @@ The branch of cryptology concerned with the development of encryption and decryp
 ## Applications Of PUFs
 1. Security related areas such as circuit identification and authentication.
 2. Device remote activation.
- ## RTL Circuit Diagram
- ![Capture](https://user-images.githubusercontent.com/98162318/168105864-552b4e7c-f36f-48b6-8357-a9ab2cb50442.JPG)
+
 
